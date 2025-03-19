@@ -13,3 +13,6 @@ Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
 Inizializzo la variabile che contiene il numero di iterazioni e a utilizzo come elemento di confronto per il contenuto della variabile i
 
 inizializzo le variabili "messaggio"
+
+scrivo il corpo del programma principale, dovrà contenere il numero di interazioni 100 e capire i multipli di 3 di 5 che di entrambi per far comparire un messaggio specifico a ognuno
+
