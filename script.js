@@ -13,8 +13,7 @@ for( let i=1; i<=n; i++){
         console.log(msgTre)
     }
 
-
-
-
-    
+    else if(i % 5 == 0){
+        console.log(msgCinque)
+    }    
 }
